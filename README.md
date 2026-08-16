@@ -1,23 +1,21 @@
 <!--
   GitHub PROFILE README
-  Copy everything below this comment into:
   aqeelabbaskhan41/aqeelabbaskhan41  →  README.md
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=180&section=header&text=Aqeel%20Abbas%20Khan&fontSize=42&fontColor=1a1a1a&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI&descAlignY=58&descSize=16" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=180&section=header&text=Aqeel%20Abbas%20Khan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20and%20Full-Stack%20Development&descAlignY=58&descSize=16" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=740&lines=Building+Production+AI+Systems;Shipping+Full-Stack+Products;Designing+Scalable+APIs+%26+Pipelines" alt="Typing headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=740&lines=Building+Production+AI+Systems;Shipping+Full-Stack+Products;Designing+Scalable+APIs+and+Pipelines" alt="Typing headline" />
 </div>
 
 <br/>
 
 <div align="center">
 
-  I build AI-powered web applications and scalable backend systems.  
-  React on the front. Node.js and FastAPI on the back. Postgres and Supabase underneath.
+Software Engineer building AI-powered web applications and scalable backend systems. I work across React, Node.js, FastAPI, and PostgreSQL, with hands-on experience shipping production features in RAG, LLM agents, and data pipelines.
 
   <br/><br/>
 
@@ -41,14 +39,14 @@
 - Shipping production systems: **SoulPlus AI**, Call Center Management, **BiedBuddy**
 - Final Year Project **AdGenie** presented at Namal Ideathon and Innovative Pakistan 2026
 - B.S. Computer Science, **Namal University** (2022 – 2026)
-- Based in Mianwali, Pakistan · open to remote, onsite, hybrid, and freelance roles
+- Based in Pakistan · open to remote, onsite, hybrid, and freelance roles
 
 ---
 
 ### Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,mysql,supabase,pytorch,docker,git,github,azure,linux,postman,vscode&perline=12" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,tailwind,nodejs,express,fastapi,flask,django,mongodb,postgres,mysql,supabase,pytorch,tensorflow,docker,git,github,azure,linux,postman,vscode,cursor,slack&perline=12" alt="Tech icons" />
 </div>
 
 <br/>
@@ -72,6 +70,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
 **Databases**
@@ -87,6 +86,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
@@ -98,7 +98,11 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 ---
 
@@ -124,7 +128,6 @@
 ### GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=aqeelabbaskhan41&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=f5c518&icon_color=f5c518&text_color=c9d1d9" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=aqeelabbaskhan41&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakNum=F5C518&sideNums=C9D1D9&currStreakLabel=F5C518&sideLabels=C9D1D9&dates=8B949E&stroke=F5C518" alt="GitHub Streak" />
 </div>
 
@@ -133,8 +136,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqeelabbaskhan41&theme=solarized" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqeelabbaskhan41&theme=solarized" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqeelabbaskhan41&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqeelabbaskhan41&theme=github_dark" alt="Most commit language" />
 </div>
 
 ---
