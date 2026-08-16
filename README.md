@@ -5,26 +5,31 @@
 -->
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=180&section=header&text=Aqeel%20Abbas%20Khan&fontSize=42&fontColor=1a1a1a&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20AI&descAlignY=58&descSize=16" alt="Header" />
+</div>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=28&pause=1000&color=D4AF37&center=true&vCenter=true&width=740&lines=Aqeel+Abbas+Khan;Software+Engineer;Building+Production+AI+Systems;Shipping+Full-Stack+Products;Designing+Scalable+APIs+%26+Pipelines" alt="Typing headline" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F5C518&center=true&vCenter=true&width=740&lines=Building+Production+AI+Systems;Shipping+Full-Stack+Products;Designing+Scalable+APIs+%26+Pipelines" alt="Typing headline" />
+</div>
 
-  <h1>Software Engineer · Full-Stack & AI</h1>
+<br/>
 
-  <p>
-    I build AI-powered web applications and scalable backend systems.<br/>
-    React on the front. Node.js and FastAPI on the back. Postgres and Supabase underneath.
-  </p>
+<div align="center">
 
-  <p>
-    <img src="https://img.shields.io/badge/Open%20to%20Work-Remote%20%7C%20Onsite%20%7C%20Freelance-d4af37?style=for-the-badge&labelColor=07080c" alt="Open to work" />
-  </p>
+  I build AI-powered web applications and scalable backend systems.  
+  React on the front. Node.js and FastAPI on the back. Postgres and Supabase underneath.
 
-  <p>
-    <a href="https://aqeel-abbas-khan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-07080c?style=for-the-badge&logo=vercel&logoColor=d4af37" alt="Portfolio" /></a>
-    <a href="https://linkedin.com/in/aqeelabbaskhan"><img src="https://img.shields.io/badge/LinkedIn-07080c?style=for-the-badge&logo=linkedin&logoColor=d4af37" alt="LinkedIn" /></a>
-    <a href="mailto:aqeelabbaskhan41@gmail.com"><img src="https://img.shields.io/badge/Email-07080c?style=for-the-badge&logo=gmail&logoColor=d4af37" alt="Email" /></a>
-    <a href="https://wa.me/923090931916"><img src="https://img.shields.io/badge/WhatsApp-07080c?style=for-the-badge&logo=whatsapp&logoColor=d4af37" alt="WhatsApp" /></a>
-  </p>
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Open_to_Work-Remote%20%7C%20Onsite%20%7C%20Freelance-F5C518?style=for-the-badge&logo=github&logoColor=black" alt="Open to work" />
+
+  <br/><br/>
+
+  <a href="https://aqeel-abbas-khan-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/aqeelabbaskhan41"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/aqeelabbaskhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aqeelabbaskhan41@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/923090931916"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 
 </div>
 
@@ -32,7 +37,7 @@
 
 ### About me
 
-- Software Developer (AI & Full Stack) at **GenTech**
+- Software Engineer building AI-powered products and full-stack systems
 - Shipping production systems: **SoulPlus AI**, Call Center Management, **BiedBuddy**
 - Final Year Project **AdGenie** presented at Namal Ideathon and Innovative Pakistan 2026
 - B.S. Computer Science, **Namal University** (2022 – 2026)
@@ -42,55 +47,58 @@
 
 ### Tech stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,react,tailwind,nodejs,express,fastapi,flask,mongodb,postgres,mysql,supabase,pytorch,docker,git,github,azure,linux,postman,vscode&perline=12" alt="Tech icons" />
+</div>
+
+<br/>
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-07080c?style=flat-square&logo=python&logoColor=d4af37)
-![JavaScript](https://img.shields.io/badge/JavaScript-07080c?style=flat-square&logo=javascript&logoColor=d4af37)
-![C++](https://img.shields.io/badge/C++-07080c?style=flat-square&logo=cplusplus&logoColor=d4af37)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React.js-07080c?style=flat-square&logo=react&logoColor=d4af37)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-07080c?style=flat-square&logo=tailwindcss&logoColor=d4af37)
-![HTML5](https://img.shields.io/badge/HTML5-07080c?style=flat-square&logo=html5&logoColor=d4af37)
-![CSS3](https://img.shields.io/badge/CSS3-07080c?style=flat-square&logo=css3&logoColor=d4af37)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & APIs**
 
-![Node](https://img.shields.io/badge/Node.js-07080c?style=flat-square&logo=nodedotjs&logoColor=d4af37)
-![Express](https://img.shields.io/badge/Express.js-07080c?style=flat-square&logo=express&logoColor=d4af37)
-![FastAPI](https://img.shields.io/badge/FastAPI-07080c?style=flat-square&logo=fastapi&logoColor=d4af37)
-![Flask](https://img.shields.io/badge/Flask-07080c?style=flat-square&logo=flask&logoColor=d4af37)
-![Supabase](https://img.shields.io/badge/Supabase_BaaS-07080c?style=flat-square&logo=supabase&logoColor=d4af37)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black)
 
 **Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-07080c?style=flat-square&logo=postgresql&logoColor=d4af37)
-![MongoDB](https://img.shields.io/badge/MongoDB-07080c?style=flat-square&logo=mongodb&logoColor=d4af37)
-![MySQL](https://img.shields.io/badge/MySQL-07080c?style=flat-square&logo=mysql&logoColor=d4af37)
-![pgvector](https://img.shields.io/badge/Vector_DB-pgvector-07080c?style=flat-square&logoColor=d4af37)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI & ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-07080c?style=flat-square&logo=langchain&logoColor=d4af37)
-![LangGraph](https://img.shields.io/badge/LangGraph-07080c?style=flat-square&logoColor=d4af37)
-![RAG](https://img.shields.io/badge/RAG-07080c?style=flat-square&logoColor=d4af37)
-![PyTorch](https://img.shields.io/badge/PyTorch-07080c?style=flat-square&logo=pytorch&logoColor=d4af37)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-07080c?style=flat-square&logo=huggingface&logoColor=d4af37)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-07080c?style=flat-square&logo=scikitlearn&logoColor=d4af37)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 **Tools & Cloud**
 
-![Git](https://img.shields.io/badge/Git-07080c?style=flat-square&logo=git&logoColor=d4af37)
-![Docker](https://img.shields.io/badge/Docker-07080c?style=flat-square&logo=docker&logoColor=d4af37)
-![Azure](https://img.shields.io/badge/Azure-07080c?style=flat-square&logo=microsoftazure&logoColor=d4af37)
-![Linux](https://img.shields.io/badge/Linux-07080c?style=flat-square&logo=linux&logoColor=d4af37)
-![Jira](https://img.shields.io/badge/Jira-07080c?style=flat-square&logo=jira&logoColor=d4af37)
-![Postman](https://img.shields.io/badge/Postman-07080c?style=flat-square&logo=postman&logoColor=d4af37)
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,react,nodejs,express,fastapi,flask,html,css,tailwind,mongodb,postgres,mysql,supabase,pytorch,tensorflow,docker,git,github,azure,linux,postman&perline=12" alt="Skill icons" />
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -106,9 +114,9 @@
 | **Kohinoor Fertilizers** | Client e-commerce with admin dashboard | React, Supabase BaaS |
 
 <p>
-  <a href="https://github.com/aqeelabbaskhan41/NearBuy"><img src="https://img.shields.io/badge/NearBuy-GitHub-d4af37?style=flat-square&logo=github&logoColor=07080c&labelColor=07080c" alt="NearBuy" /></a>
-  <a href="https://github.com/aqeelabbaskhan41/Obesity-Level-Prediction"><img src="https://img.shields.io/badge/Obesity%20Prediction-GitHub-d4af37?style=flat-square&logo=github&logoColor=07080c&labelColor=07080c" alt="Obesity Prediction" /></a>
-  <a href="https://aqeel-abbas-khan-portfolio.vercel.app"><img src="https://img.shields.io/badge/All%20projects-Portfolio-d4af37?style=flat-square&logo=vercel&logoColor=07080c&labelColor=07080c" alt="Portfolio" /></a>
+  <a href="https://github.com/aqeelabbaskhan41/NearBuy"><img src="https://img.shields.io/badge/NearBuy-181717?style=for-the-badge&logo=github&logoColor=white" alt="NearBuy" /></a>
+  <a href="https://github.com/aqeelabbaskhan41/Obesity-Level-Prediction"><img src="https://img.shields.io/badge/Obesity_Prediction-181717?style=for-the-badge&logo=github&logoColor=white" alt="Obesity Prediction" /></a>
+  <a href="https://aqeel-abbas-khan-portfolio.vercel.app"><img src="https://img.shields.io/badge/All_projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
@@ -116,12 +124,17 @@
 ### GitHub stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aqeelabbaskhan41&show_icons=true&theme=dark&hide_border=false&bg_color=07080c&title_color=d4af37&icon_color=d4af37&text_color=d6d0c6&border_color=d4af37&ring_color=d4af37" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.demolab.com/?user=aqeelabbaskhan41&theme=dark&hide_border=false&background=07080c&ring=d4af37&fire=d4af37&currStreakLabel=d4af37&sideLabels=d6d0c6&dates=a8a29a&stroke=d4af37&border=d4af37" alt="GitHub streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=aqeelabbaskhan41&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=f5c518&icon_color=f5c518&text_color=c9d1d9" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=aqeelabbaskhan41&hide_border=true&background=0D1117&ring=F5C518&fire=F5C518&currStreakNum=F5C518&sideNums=C9D1D9&currStreakLabel=F5C518&sideLabels=C9D1D9&dates=8B949E&stroke=F5C518" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aqeelabbaskhan41&layout=compact&theme=dark&hide_border=false&bg_color=07080c&title_color=d4af37&text_color=d6d0c6&border_color=d4af37" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aqeelabbaskhan41&layout=compact&hide_border=true&bg_color=0d1117&title_color=f5c518&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aqeelabbaskhan41&theme=solarized" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aqeelabbaskhan41&theme=solarized" alt="Most commit language" />
 </div>
 
 ---
@@ -138,6 +151,10 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=aqeelabbaskhan41&label=Profile%20views&color=d4af37&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=aqeelabbaskhan41&label=Profile%20views&color=f5c518&style=for-the-badge" alt="Profile views" />
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F5C518&height=90&section=footer" alt="Footer wave" />
 </div>
